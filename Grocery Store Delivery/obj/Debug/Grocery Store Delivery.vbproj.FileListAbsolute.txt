@@ -1,0 +1,27 @@
+c:\users\user\documents\visual studio 2015\Projects\Grocery Store Delivery\Grocery Store Delivery\bin\Debug\Grocery Store Delivery.exe.config
+c:\users\user\documents\visual studio 2015\Projects\Grocery Store Delivery\Grocery Store Delivery\bin\Debug\Grocery Store Delivery.exe
+c:\users\user\documents\visual studio 2015\Projects\Grocery Store Delivery\Grocery Store Delivery\bin\Debug\Grocery Store Delivery.pdb
+c:\users\user\documents\visual studio 2015\Projects\Grocery Store Delivery\Grocery Store Delivery\bin\Debug\Grocery Store Delivery.xml
+c:\users\user\documents\visual studio 2015\Projects\Grocery Store Delivery\Grocery Store Delivery\obj\Debug\Grocery Store Delivery.vbprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\Grocery Store Delivery\Grocery Store Delivery\obj\Debug\Grocery_Store_Delivery.Form1.resources
+c:\users\user\documents\visual studio 2015\Projects\Grocery Store Delivery\Grocery Store Delivery\obj\Debug\Grocery_Store_Delivery.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\Grocery Store Delivery\Grocery Store Delivery\obj\Debug\Grocery Store Delivery.vbproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\Grocery Store Delivery\Grocery Store Delivery\obj\Debug\Grocery Store Delivery.exe
+c:\users\user\documents\visual studio 2015\Projects\Grocery Store Delivery\Grocery Store Delivery\obj\Debug\Grocery Store Delivery.xml
+c:\users\user\documents\visual studio 2015\Projects\Grocery Store Delivery\Grocery Store Delivery\obj\Debug\Grocery Store Delivery.pdb
+c:\users\user\documents\visual studio 2015\Projects\Grocery Store Delivery\Grocery Store Delivery\obj\Debug\Grocery_Store_Delivery.Form2.resources
+c:\users\user\documents\visual studio 2015\Projects\Grocery Store Delivery\Grocery Store Delivery\obj\Debug\Grocery_Store_Delivery.Form3.resources
+c:\users\user\documents\visual studio 2015\Projects\Grocery Store Delivery\Grocery Store Delivery\obj\Debug\Grocery_Store_Delivery.Form4.resources
+c:\users\user\documents\visual studio 2015\Projects\Grocery Store Delivery\Grocery Store Delivery\obj\Debug\Grocery_Store_Delivery.Form5.resources
+c:\users\user\documents\visual studio 2015\Projects\Grocery Store Delivery\Grocery Store Delivery\obj\Debug\Grocery_Store_Delivery.Form6.resources
+c:\users\user\documents\visual studio 2015\Projects\Grocery Store Delivery\Grocery Store Delivery\obj\Debug\Grocery_Store_Delivery.Form7.resources
+c:\users\user\documents\visual studio 2015\Projects\Grocery Store Delivery\Grocery Store Delivery\obj\Debug\Grocery_Store_Delivery.Form8.resources
+c:\users\user\documents\visual studio 2015\Projects\Grocery Store Delivery\Grocery Store Delivery\obj\Debug\Grocery_Store_Delivery.Form9.resources
+c:\users\user\documents\visual studio 2015\Projects\Grocery Store Delivery\Grocery Store Delivery\obj\Debug\Grocery_Store_Delivery.Form10.resources
+c:\users\user\documents\visual studio 2015\Projects\Grocery Store Delivery\Grocery Store Delivery\obj\Debug\Grocery_Store_Delivery.Form11.resources
+c:\users\user\documents\visual studio 2015\Projects\Grocery Store Delivery\Grocery Store Delivery\obj\Debug\Grocery_Store_Delivery.Form12.resources
+c:\users\user\documents\visual studio 2015\Projects\Grocery Store Delivery\Grocery Store Delivery\obj\Debug\Grocery_Store_Delivery.Form13.resources
+c:\users\user\documents\visual studio 2015\Projects\Grocery Store Delivery\Grocery Store Delivery\obj\Debug\Grocery_Store_Delivery.Form14.resources
+c:\users\user\documents\visual studio 2015\Projects\Grocery Store Delivery\Grocery Store Delivery\obj\Debug\Grocery_Store_Delivery.Form15.resources
+c:\users\user\documents\visual studio 2015\Projects\Grocery Store Delivery\Grocery Store Delivery\obj\Debug\Grocery_Store_Delivery.Form16.resources
+c:\users\user\documents\visual studio 2015\Projects\Grocery Store Delivery\Grocery Store Delivery\obj\Debug\Grocery_Store_Delivery.Form17.resources
